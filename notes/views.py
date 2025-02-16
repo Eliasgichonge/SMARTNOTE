@@ -9,7 +9,6 @@ class NoteListView(ListView):
     template_name = 'notes/notes_list.html'
     context_object_name = 'notes'
 
- return render(request, 'notes/notes_list.html', {'notes': all_notes})
 
 def detail(request, pk):
     try:
