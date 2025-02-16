@@ -7,4 +7,4 @@ def list(request):
 
 def detail(request, pk):
     note = Note.objects.get(pk=pk)
-    return render(request, 'notes/note_detail.html', {'note': note})
+    return render(request, 'notes/notes_detail.html', {'note': note})
