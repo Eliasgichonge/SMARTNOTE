@@ -4,6 +4,11 @@ from notes.models import Note
 from django.views.generic import ListView
 
 
+class NoteListView(ListView):
+    model = Note
+    template_name = 'notes/notes_list.html'
+    context_object_name = 'notes'
+
 def list(request):
     all_notes = Note.objects.all()
     return render(request, 'notes/notes_list.html', {'notes': all_notes})
