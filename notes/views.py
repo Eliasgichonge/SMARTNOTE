@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from  . models import Note
+from django.http import Http404
 
 def list(request):
     all_notes = Note.objects.all()
