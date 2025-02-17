@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Using Django shell for creating and querying data">
-      <change beforePath="$PROJECT_DIR$/notes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes/views.py" afterDir="false" />
+    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Creating a Dynamic template">
+      <change beforePath="$PROJECT_DIR$/notes/templates/notes/notes_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/notes/templates/notes/notes_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/notes/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
@@ -367,7 +368,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739756735783</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Creating a Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739756875381</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1739756875381</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Creating a Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739757060564</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1739757060564</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Creating a Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739757123219</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1739757123219</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Creating a Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739757150521</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1739757150521</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -380,6 +413,7 @@
     <MESSAGE value="Introduction of ORMs" />
     <MESSAGE value="Use admin for data creation and manipulation" />
     <MESSAGE value="Using Django shell for creating and querying data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using Django shell for creating and querying data" />
+    <MESSAGE value="Creating a Dynamic template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a Dynamic template" />
   </component>
 </project>
