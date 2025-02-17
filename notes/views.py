@@ -5,7 +5,6 @@ from notes.models import Note
 from django.views.generic import ListView
 
 
-
 class NoteListView(ListView):
       model = Note
       template_name = 'notes/notes_list.html'
