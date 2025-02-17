@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Display a content of a single note" />
+    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Introduction to Django class base-view">
+      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,22 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739753211368</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Creating your Django Template">
-      <option name="closed" value="true" />
-      <created>1739754405107</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1739754405107</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Creating your Django Template">
-      <option name="closed" value="true" />
-      <created>1739754462426</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1739754462426</updated>
     </task>
     <task id="LOCAL-00009" summary="Creating your Django Template">
       <option name="closed" value="true" />
@@ -471,7 +457,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739762696494</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Introduction to Django class base-view">
+      <option name="closed" value="true" />
+      <created>1739762955581</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1739762955581</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Introduction to Django class base-view">
+      <option name="closed" value="true" />
+      <created>1739763057283</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1739763057283</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -486,6 +488,7 @@
     <MESSAGE value="Using Django shell for creating and querying data" />
     <MESSAGE value="Creating a Dynamic template" />
     <MESSAGE value="Display a content of a single note" />
-    <option name="LAST_COMMIT_MESSAGE" value="Display a content of a single note" />
+    <MESSAGE value="Introduction to Django class base-view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduction to Django class base-view" />
   </component>
 </project>
