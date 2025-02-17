@@ -8,5 +8,8 @@ def list(request):
 
 
 def detail(request, pk):
-    note = Notes.objects.get(pk=pk)
+    try:
+        note = Notes.objects.get(pk=pk)
+    except Notes.DoesNotExist:
+        raise Http404("Note doesn't exist")
     return render(request, 'notes/notes_detail.html', {'note': note})
