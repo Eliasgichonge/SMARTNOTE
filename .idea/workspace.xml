@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="A bit more on class based-view">
-      <change beforePath="$PROJECT_DIR$/notes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="A bit more on class based-view" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,38 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739753211368</updated>
-    </task>
-    <task id="LOCAL-00022" summary="User authentication int two simple steps">
-      <option name="closed" value="true" />
-      <created>1739755565396</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1739755565396</updated>
-    </task>
-    <task id="LOCAL-00023" summary="User authentication int two simple steps">
-      <option name="closed" value="true" />
-      <created>1739755648304</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1739755648304</updated>
-    </task>
-    <task id="LOCAL-00024" summary="User authentication int two simple steps">
-      <option name="closed" value="true" />
-      <created>1739755768325</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1739755768325</updated>
-    </task>
-    <task id="LOCAL-00025" summary="User authentication int two simple steps">
-      <option name="closed" value="true" />
-      <created>1739755809971</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1739755809971</updated>
     </task>
     <task id="LOCAL-00026" summary="User authentication int two simple steps">
       <option name="closed" value="true" />
@@ -473,7 +439,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739764080104</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="A bit more on class based-view">
+      <option name="closed" value="true" />
+      <created>1739764211361</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1739764211361</updated>
+    </task>
+    <task id="LOCAL-00072" summary="A bit more on class based-view">
+      <option name="closed" value="true" />
+      <created>1739764276427</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1739764276427</updated>
+    </task>
+    <task id="LOCAL-00073" summary="A bit more on class based-view">
+      <option name="closed" value="true" />
+      <created>1739764349046</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1739764349046</updated>
+    </task>
+    <task id="LOCAL-00074" summary="A bit more on class based-view">
+      <option name="closed" value="true" />
+      <created>1739764487251</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1739764487251</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
