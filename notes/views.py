@@ -7,7 +7,7 @@ from django.views.generic import ListView
 
 class NoteListView(ListView):
       model = Note
-      # template_name = 'notes/notes_list.html'
+      # template_name = 'notes/note_list.html'
       context_object_name = 'notes'
 
 
@@ -16,4 +16,4 @@ def detail(request, pk):
         note = Note.objects.get(pk=pk)
     except Note.DoesNotExist:
         raise Http404("Note doesn't exist")
-    return render(request, 'notes/notes_detail.html', {'note': note})
+    return render(request, 'notes/note_detail.html', {'note': note})
