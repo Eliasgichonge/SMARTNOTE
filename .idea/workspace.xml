@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Minimum working page" />
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating your first Django template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -157,7 +158,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739812394548</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739812456514</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812456514</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Creating your first Django template">
+      <option name="closed" value="true" />
+      <created>1739812628467</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812628467</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Creating your first Django template">
+      <option name="closed" value="true" />
+      <created>1739812705541</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812705541</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +191,7 @@
     <MESSAGE value="Installing Django with pip" />
     <MESSAGE value="Creating a new Django project" />
     <MESSAGE value="Minimum working page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minimum working page" />
+    <MESSAGE value="Creating your first Django template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating your first Django template" />
   </component>
 </project>
