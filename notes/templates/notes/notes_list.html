@@ -1,17 +1,8 @@
-{% load static %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}"/>
-</head>
-<body>
+{% extends "base.html" %}
+
    <h1>These are the notes:</h1>
    <ul>
        {% for note in notes %}
        <li class="note-li">{{note.title}}</li>
        {% endfor %}
    </ul>
-</body>
-</html>
