@@ -11,6 +11,11 @@ class NoteListView(ListView):
       context_object_name = 'notes'
 
 
+class NoteDetailView(DetailView):
+      model = Note
+      template_name = 'notes/note_detail.html'
+      context_object_name = 'note'
+
 def detail(request, pk):
     try:
         note = Note.objects.get(pk=pk)
