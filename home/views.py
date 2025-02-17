@@ -10,7 +10,7 @@ class HomeView(TemplateView):
       extra_context = {'today': datetime.today()}
 
 
-class authorizedView(TemplateView):
+class authorizedView(LoginRequiredMixin, TemplateView):
       template_name = 'home/authorized.html'
 
 @login_required(login_url='/admin/')
