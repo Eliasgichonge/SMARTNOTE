@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="User authentication int 2 simple steps" />
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Using admin for data creation and manipulation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,38 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739811339845</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1739812205581</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812205581</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1739812274392</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812274392</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1739812283887</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812283887</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1739812327541</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812327541</updated>
     </task>
     <task id="LOCAL-00012" summary="Minimum working page">
       <option name="closed" value="true" />
@@ -465,7 +433,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739815258040</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Using admin for data creation and manipulation">
+      <option name="closed" value="true" />
+      <created>1739815508741</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1739815508741</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Using admin for data creation and manipulation">
+      <option name="closed" value="true" />
+      <created>1739815691476</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1739815691476</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Using admin for data creation and manipulation">
+      <option name="closed" value="true" />
+      <created>1739815747431</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1739815747431</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Using admin for data creation and manipulation">
+      <option name="closed" value="true" />
+      <created>1739815773649</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1739815773649</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -480,6 +480,7 @@
     <MESSAGE value="Using admin to create and manipulate data" />
     <MESSAGE value="Creating users in Django" />
     <MESSAGE value="User authentication int 2 simple steps" />
-    <option name="LAST_COMMIT_MESSAGE" value="User authentication int 2 simple steps" />
+    <MESSAGE value="Using admin for data creation and manipulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using admin for data creation and manipulation" />
   </component>
 </project>
