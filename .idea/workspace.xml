@@ -79,14 +79,6 @@
       <option name="presentableId" value="Default" />
       <updated>1739753211368</updated>
     </task>
-    <task id="LOCAL-00006" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1739754250189</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1739754250189</updated>
-    </task>
     <task id="LOCAL-00007" summary="Creating your Django Template">
       <option name="closed" value="true" />
       <created>1739754405107</created>
@@ -471,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739760983800</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Display a content of a single note">
+      <option name="closed" value="true" />
+      <created>1739762696493</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1739762696494</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
