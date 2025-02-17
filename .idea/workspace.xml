@@ -76,22 +76,6 @@
       <option name="presentableId" value="Default" />
       <updated>1739811339845</updated>
     </task>
-    <task id="LOCAL-00031" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739813362231</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1739813362231</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739813414810</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1739813414810</updated>
-    </task>
     <task id="LOCAL-00033" summary="Django apps and the concept of modularization">
       <option name="closed" value="true" />
       <created>1739813423129</created>
@@ -468,7 +452,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739817887419</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739818184327</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1739818184327</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739818622567</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1739818622567</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
