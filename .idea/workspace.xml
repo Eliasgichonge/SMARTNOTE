@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating your first Django template">
-      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Django apps and the concept of modularization">
+      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/home/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
@@ -224,7 +225,95 @@
       <option name="project" value="LOCAL" />
       <updated>1739812997400</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Creating your first Django template">
+      <option name="closed" value="true" />
+      <created>1739813019909</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813019909</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Creating your first Django template">
+      <option name="closed" value="true" />
+      <created>1739813041965</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813041965</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Creating your first Django template">
+      <option name="closed" value="true" />
+      <created>1739813061755</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813061755</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Creating your first Django template">
+      <option name="closed" value="true" />
+      <created>1739813087120</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813087120</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813226114</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813226114</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813239310</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813239310</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813291609</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813291609</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813298997</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813298997</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813316727</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813316727</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813342985</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813342985</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813352520</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813352520</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,6 +323,7 @@
     <MESSAGE value="Creating a new Django project" />
     <MESSAGE value="Minimum working page" />
     <MESSAGE value="Creating your first Django template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating your first Django template" />
+    <MESSAGE value="Django apps and the concept of modularization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django apps and the concept of modularization" />
   </component>
 </project>
