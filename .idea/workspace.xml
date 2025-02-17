@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Django apps and the concept of modularization">
-      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Introduction to Django ORMs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -313,7 +311,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739813352520</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813362231</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813362231</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813414810</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813414810</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813423129</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813423129</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Django apps and the concept of modularization">
+      <option name="closed" value="true" />
+      <created>1739813449086</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813449086</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Introduction to Django ORMs">
+      <option name="closed" value="true" />
+      <created>1739813651605</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813651605</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -324,6 +362,7 @@
     <MESSAGE value="Minimum working page" />
     <MESSAGE value="Creating your first Django template" />
     <MESSAGE value="Django apps and the concept of modularization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Django apps and the concept of modularization" />
+    <MESSAGE value="Introduction to Django ORMs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduction to Django ORMs" />
   </component>
 </project>
