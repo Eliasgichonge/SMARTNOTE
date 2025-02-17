@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Minimum working page">
-      <change beforePath="$PROJECT_DIR$/smartnotes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/smartnotes/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Creating your Django Template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -96,12 +95,53 @@
       <option name="project" value="LOCAL" />
       <updated>1739754114723</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739754190646</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739754190646</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739754250189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739754250189</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creating your Django Template">
+      <option name="closed" value="true" />
+      <created>1739754405107</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739754405107</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Creating your Django Template">
+      <option name="closed" value="true" />
+      <created>1739754462426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739754462426</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Creating your Django Template">
+      <option name="closed" value="true" />
+      <created>1739754488759</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739754488759</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a new Django Project" />
     <MESSAGE value="Minimum working page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minimum working page" />
+    <MESSAGE value="Creating your Django Template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating your Django Template" />
   </component>
 </project>
