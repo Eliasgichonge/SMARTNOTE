@@ -1,7 +1,7 @@
 from typing import List
 from django.shortcuts import render
 from django.http import Http404
-from django.views.generic import ListView
+from django.views.generic import DetailView, ListView
 from . models import Notes
 
 
