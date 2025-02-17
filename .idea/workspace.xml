@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="A bit more on class based-view" />
+    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Static Files In Django">
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
     <setting file="file://$PROJECT_DIR$/notes/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/static/css/style.css" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -78,38 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739753211368</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Use admin for data creation and manipulation">
-      <option name="closed" value="true" />
-      <created>1739756486322</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1739756486322</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Use admin for data creation and manipulation">
-      <option name="closed" value="true" />
-      <created>1739756516261</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1739756516261</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Use admin for data creation and manipulation">
-      <option name="closed" value="true" />
-      <created>1739756551160</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1739756551160</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Use admin for data creation and manipulation">
-      <option name="closed" value="true" />
-      <created>1739756593413</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1739756593413</updated>
     </task>
     <task id="LOCAL-00036" summary="Using Django shell for creating and querying data">
       <option name="closed" value="true" />
@@ -471,7 +442,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739765253068</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="A bit more on class based-view">
+      <option name="closed" value="true" />
+      <created>1739765604993</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1739765604993</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Static Files In Django">
+      <option name="closed" value="true" />
+      <created>1739765759503</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1739765759503</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Static Files In Django">
+      <option name="closed" value="true" />
+      <created>1739765800983</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1739765800983</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Static Files In Django">
+      <option name="closed" value="true" />
+      <created>1739765859251</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1739765859251</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -488,6 +491,7 @@
     <MESSAGE value="Display a content of a single note" />
     <MESSAGE value="Introduction to Django class base-view" />
     <MESSAGE value="A bit more on class based-view" />
-    <option name="LAST_COMMIT_MESSAGE" value="A bit more on class based-view" />
+    <MESSAGE value="Static Files In Django" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static Files In Django" />
   </component>
 </project>
