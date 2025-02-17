@@ -4,3 +4,6 @@ from datetime import datetime
 
 def home(request):
     return render(request, 'home/welcome.html', {'today': datetime.today()})
+
+def athorized(request):
+    return render(request, 'home/authorized.html', {})
