@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="User authentication int two simple steps">
-      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Introduction of ORMs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +34,11 @@
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/home/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/home/templates/home/welcome.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/home/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/notes/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
   </component>
@@ -275,7 +275,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739755809971</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="User authentication int two simple steps">
+      <option name="closed" value="true" />
+      <created>1739755905112</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1739755905112</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Introduction of ORMs">
+      <option name="closed" value="true" />
+      <created>1739756043732</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1739756043732</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Introduction of ORMs">
+      <option name="closed" value="true" />
+      <created>1739756069166</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739756069166</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Introduction of ORMs">
+      <option name="closed" value="true" />
+      <created>1739756133831</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1739756133831</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -285,6 +317,7 @@
     <MESSAGE value="Django apps and the concept of modularization" />
     <MESSAGE value="Creating Users in Django" />
     <MESSAGE value="User authentication int two simple steps" />
-    <option name="LAST_COMMIT_MESSAGE" value="User authentication int two simple steps" />
+    <MESSAGE value="Introduction of ORMs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduction of ORMs" />
   </component>
 </project>
