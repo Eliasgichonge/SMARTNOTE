@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import Http404
-from . models import Notes
+from django.views.generic import ListView
 
 def list(request):
     all_notes = Notes.objects.all()
