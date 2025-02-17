@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating a new Django project" />
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Minimum working page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +26,9 @@
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -91,7 +93,71 @@
       <option name="project" value="LOCAL" />
       <updated>1739812077425</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739812120241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812120241</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739812157111</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812157111</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739812196733</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812196733</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739812205581</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812205581</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739812274392</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812274392</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739812283887</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812283887</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739812327541</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812327541</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1739812394548</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739812394548</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -99,6 +165,7 @@
     <MESSAGE value="Creating a Python virtual environment" />
     <MESSAGE value="Installing Django with pip" />
     <MESSAGE value="Creating a new Django project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a new Django project" />
+    <MESSAGE value="Minimum working page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minimum working page" />
   </component>
 </project>
