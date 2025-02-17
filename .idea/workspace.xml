@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Using admin for data creation and manipulation" />
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating Dynamic template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +38,7 @@
     <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/notes/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
   </component>
@@ -72,46 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739811339845</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1739812394548</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812394548</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1739812456514</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812456514</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Creating your first Django template">
-      <option name="closed" value="true" />
-      <created>1739812628467</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812628467</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Creating your first Django template">
-      <option name="closed" value="true" />
-      <created>1739812705541</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812705541</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Creating your first Django template">
-      <option name="closed" value="true" />
-      <created>1739812722465</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812722465</updated>
     </task>
     <task id="LOCAL-00017" summary="Creating your first Django template">
       <option name="closed" value="true" />
@@ -465,7 +426,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739815773649</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Using admin for data creation and manipulation">
+      <option name="closed" value="true" />
+      <created>1739816045927</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1739816045927</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739816244261</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1739816244261</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739816278100</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1739816278100</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739816292757</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1739816292757</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739816313491</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1739816313491</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -481,6 +482,7 @@
     <MESSAGE value="Creating users in Django" />
     <MESSAGE value="User authentication int 2 simple steps" />
     <MESSAGE value="Using admin for data creation and manipulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using admin for data creation and manipulation" />
+    <MESSAGE value="Creating Dynamic template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating Dynamic template" />
   </component>
 </project>
