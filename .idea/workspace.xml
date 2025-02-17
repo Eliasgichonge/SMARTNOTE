@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="How to set up a base HTML for every Django template">
-      <change beforePath="$PROJECT_DIR$/static/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/templates/base.html" afterDir="false" />
-    </list>
+    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="How to set up a base HTML for every Django template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,7 @@
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/static/css/style.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/static/templates/base.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -81,38 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739753211368</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Creating a Dynamic template">
-      <option name="closed" value="true" />
-      <created>1739757123219</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1739757123219</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Creating a Dynamic template">
-      <option name="closed" value="true" />
-      <created>1739757150521</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1739757150521</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Creating a Dynamic template">
-      <option name="closed" value="true" />
-      <created>1739757243296</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1739757243296</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Creating a Dynamic template">
-      <option name="closed" value="true" />
-      <created>1739757395172</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1739757395172</updated>
     </task>
     <task id="LOCAL-00043" summary="Disp">
       <option name="closed" value="true" />
@@ -474,7 +441,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739766480472</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="How to set up a base HTML for every Django template">
+      <option name="closed" value="true" />
+      <created>1739766598141</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1739766598141</updated>
+    </task>
+    <task id="LOCAL-00089" summary="How to set up a base HTML for every Django template">
+      <option name="closed" value="true" />
+      <created>1739766676998</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1739766676998</updated>
+    </task>
+    <task id="LOCAL-00090" summary="How to set up a base HTML for every Django template">
+      <option name="closed" value="true" />
+      <created>1739766818887</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1739766818887</updated>
+    </task>
+    <task id="LOCAL-00091" summary="How to set up a base HTML for every Django template">
+      <option name="closed" value="true" />
+      <created>1739766865099</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1739766865099</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
