@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Introduction to Django class base-view">
-      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Introduction to Django class base-view" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,54 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739753211368</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Creating your Django Template">
-      <option name="closed" value="true" />
-      <created>1739754738512</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1739754738512</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739754904132</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1739754904132</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739754954709</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1739754954709</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739754979144</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1739754979144</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739755005727</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1739755005727</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Creating Users in Django">
-      <option name="closed" value="true" />
-      <created>1739755259942</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1739755259942</updated>
     </task>
     <task id="LOCAL-00019" summary="Creating Users in Django">
       <option name="closed" value="true" />
@@ -473,7 +423,55 @@
       <option name="project" value="LOCAL" />
       <updated>1739763483636</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Introduction to Django class base-view">
+      <option name="closed" value="true" />
+      <created>1739763595703</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1739763595703</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Introduction to Django class base-view">
+      <option name="closed" value="true" />
+      <created>1739763636905</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1739763636905</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Introduction to Django class base-view">
+      <option name="closed" value="true" />
+      <created>1739763685693</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1739763685693</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Introduction to Django class base-view">
+      <option name="closed" value="true" />
+      <created>1739763704598</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1739763704598</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Introduction to Django class base-view">
+      <option name="closed" value="true" />
+      <created>1739763764579</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1739763764580</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Introduction to Django class base-view">
+      <option name="closed" value="true" />
+      <created>1739763816315</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1739763816315</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
