@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating users in Django" />
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="User authentication int 2 simple steps" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -72,38 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739811339845</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Creating a New Django Project">
-      <option name="closed" value="true" />
-      <created>1739811510265</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1739811510265</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Creating a Python virtual environment">
-      <option name="closed" value="true" />
-      <created>1739811589076</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1739811589076</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Installing Django with pip">
-      <option name="closed" value="true" />
-      <created>1739811749791</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1739811749791</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Creating a new Django project">
-      <option name="closed" value="true" />
-      <created>1739812077425</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1739812077425</updated>
     </task>
     <task id="LOCAL-00005" summary="Minimum working page">
       <option name="closed" value="true" />
@@ -441,7 +409,63 @@
       <option name="project" value="LOCAL" />
       <updated>1739814754853</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="User authentication int 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1739814825001</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1739814825001</updated>
+    </task>
+    <task id="LOCAL-00048" summary="User authentication int 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1739814856115</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1739814856115</updated>
+    </task>
+    <task id="LOCAL-00049" summary="User authentication int 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1739814898838</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1739814898838</updated>
+    </task>
+    <task id="LOCAL-00050" summary="User authentication int 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1739814998126</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1739814998127</updated>
+    </task>
+    <task id="LOCAL-00051" summary="User authentication int 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1739815070317</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1739815070317</updated>
+    </task>
+    <task id="LOCAL-00052" summary="User authentication int 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1739815126126</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1739815126126</updated>
+    </task>
+    <task id="LOCAL-00053" summary="User authentication int 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1739815162840</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1739815162840</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -455,6 +479,7 @@
     <MESSAGE value="Introduction to Django ORMs" />
     <MESSAGE value="Using admin to create and manipulate data" />
     <MESSAGE value="Creating users in Django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating users in Django" />
+    <MESSAGE value="User authentication int 2 simple steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="User authentication int 2 simple steps" />
   </component>
 </project>
