@@ -9,10 +9,6 @@ class NotesListView(ListView):
       model = Notes
       context_objects_name = "notes"
 
-def list(request):
-    all_notes = Notes.objects.all()
-    return render(request, 'notes/notes_list.html', {'notes': all_notes})
-
 
 def detail(request, pk):
     try:
