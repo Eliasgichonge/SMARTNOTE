@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Introduction of ORMs" />
+    <list default="true" id="6b79ca37-4d2c-4bb8-8d20-e3a462a534bf" name="Changes" comment="Use admin for data creation and manipulation">
+      <change beforePath="$PROJECT_DIR$/notes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
     <setting file="file://$PROJECT_DIR$/home/templates/home/welcome.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/home/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/notes/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
@@ -307,7 +310,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739756133831</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Use">
+      <option name="closed" value="true" />
+      <created>1739756236558</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1739756236558</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Use admin for data creation and manipulation">
+      <option name="closed" value="true" />
+      <created>1739756372491</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1739756372494</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Use admin for data creation and manipulation">
+      <option name="closed" value="true" />
+      <created>1739756486322</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1739756486322</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Use admin for data creation and manipulation">
+      <option name="closed" value="true" />
+      <created>1739756516261</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1739756516261</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -318,6 +353,7 @@
     <MESSAGE value="Creating Users in Django" />
     <MESSAGE value="User authentication int two simple steps" />
     <MESSAGE value="Introduction of ORMs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduction of ORMs" />
+    <MESSAGE value="Use admin for data creation and manipulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Use admin for data creation and manipulation" />
   </component>
 </project>
