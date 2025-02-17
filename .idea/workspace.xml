@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Using admin to create and manipulate data" />
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating users in Django" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -425,7 +425,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739814362706</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Creating users in Django">
+      <option name="closed" value="true" />
+      <created>1739814565840</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1739814565840</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Creating users in Django">
+      <option name="closed" value="true" />
+      <created>1739814754853</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1739814754853</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -438,6 +454,7 @@
     <MESSAGE value="Django apps and the concept of modularization" />
     <MESSAGE value="Introduction to Django ORMs" />
     <MESSAGE value="Using admin to create and manipulate data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using admin to create and manipulate data" />
+    <MESSAGE value="Creating users in Django" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating users in Django" />
   </component>
 </project>
