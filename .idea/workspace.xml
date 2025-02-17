@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating Dynamic template" />
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating Dynamic template">
+      <change beforePath="$PROJECT_DIR$/notes/templates/notes/notes_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/notes/templates/notes/notes_list.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,30 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739811339845</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739813239310</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1739813239310</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739813291609</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1739813291609</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739813298997</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1739813298997</updated>
     </task>
     <task id="LOCAL-00028" summary="Django apps and the concept of modularization">
       <option name="closed" value="true" />
@@ -467,7 +445,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739816795344</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739817711716</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1739817711717</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739817775785</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1739817775785</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739817826869</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1739817826869</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
