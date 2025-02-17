@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating Dynamic template">
-      <change beforePath="$PROJECT_DIR$/notes/templates/notes/notes_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/notes/templates/notes/notes_list.html" afterDir="false" />
-    </list>
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Creating Dynamic template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +38,7 @@
     <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/notes/templates/notes/notes_list.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
@@ -76,30 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739811339845</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739813316727</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1739813316727</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739813342985</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1739813342985</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1739813352520</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1739813352520</updated>
     </task>
     <task id="LOCAL-00031" summary="Django apps and the concept of modularization">
       <option name="closed" value="true" />
@@ -469,7 +444,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739817826869</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739817836907</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1739817836907</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739817851539</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1739817851539</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Creating Dynamic template">
+      <option name="closed" value="true" />
+      <created>1739817887419</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1739817887419</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
