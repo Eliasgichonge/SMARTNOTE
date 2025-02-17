@@ -7,5 +7,5 @@ def home(request):
     return render(request, 'home/welcome.html', {'today': datetime.today()})
 
 @login_required
-def athorized(request):
+def authorized(request):
     return render(request, 'home/authorized.html', {})
