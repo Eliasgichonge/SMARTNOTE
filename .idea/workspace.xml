@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Display content of a single note">
-      <change beforePath="$PROJECT_DIR$/notes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="2876fbeb-1623-452f-ba04-9eb1a135098d" name="Changes" comment="Display content of a single note" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,14 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739811339845</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Introduction to Django ORMs">
-      <option name="closed" value="true" />
-      <created>1739814104654</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1739814104654</updated>
     </task>
     <task id="LOCAL-00040" summary="Introduction to Django ORMs">
       <option name="closed" value="true" />
@@ -470,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739818969019</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Display content of a single note">
+      <option name="closed" value="true" />
+      <created>1739818979158</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1739818979158</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
