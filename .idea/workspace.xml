@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Creating a Python virtual environment" />
+    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Installing Django with pip" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,11 +73,28 @@
       <option name="project" value="LOCAL" />
       <updated>1740158214952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creating a Python virtual environment">
+      <option name="closed" value="true" />
+      <created>1740158271252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740158271252</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Installing Django with pip">
+      <option name="closed" value="true" />
+      <created>1740158455222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740158455222</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a Python virtual environment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a Python virtual environment" />
+    <MESSAGE value="Installing Django with pip" />
+    <option name="LAST_COMMIT_MESSAGE" value="Installing Django with pip" />
   </component>
 </project>
