@@ -21,5 +21,5 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('home.urls')),
-    path('smart/notes', include('notes.urls')),
+    path('smart/', include('notes.urls')),
 ]
