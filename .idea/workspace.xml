@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Creating a new project with Django">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Minimum working page">
+      <change beforePath="$PROJECT_DIR$/smartnotes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/smartnotes/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,9 @@
     &quot;accountId&quot;: &quot;3e2b2651-de76-4456-a786-e8cd7b5f6769&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -107,13 +110,30 @@
       <option name="project" value="LOCAL" />
       <updated>1740159700834</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creating a new project with Django">
+      <option name="closed" value="true" />
+      <created>1740204980406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740204980406</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1740205131591</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740205131591</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a Python virtual environment" />
     <MESSAGE value="Installing Django with pip" />
     <MESSAGE value="Creating a new project with Django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a new project with Django" />
+    <MESSAGE value="Minimum working page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minimum working page" />
   </component>
 </project>
