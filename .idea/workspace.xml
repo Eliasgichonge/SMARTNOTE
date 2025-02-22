@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -39,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/notes/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
@@ -75,70 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740156481794</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1740211445229</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1740211445229</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1740211485224</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1740211485224</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1740211524216</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1740211524216</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Creating users in Django">
-      <option name="closed" value="true" />
-      <created>1740212951759</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1740212951759</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Creating users in Django">
-      <option name="closed" value="true" />
-      <created>1740213010300</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1740213010300</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Creating users in Django">
-      <option name="closed" value="true" />
-      <created>1740213032011</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1740213032011</updated>
-    </task>
-    <task id="LOCAL-00042">
-      <option name="closed" value="true" />
-      <created>1740213209387</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1740213209387</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Creating admin Easily visualizing and creating data">
-      <option name="closed" value="true" />
-      <created>1740213372811</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1740213372811</updated>
     </task>
     <task id="LOCAL-00044" summary="User authentication in 2 simple steps">
       <option name="closed" value="true" />
@@ -468,7 +405,71 @@
       <option name="project" value="LOCAL" />
       <updated>1740218063859</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218098671</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218098671</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218128431</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218128431</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218190847</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218190847</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218216020</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218216020</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218250450</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218250450</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218271170</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218271170</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218342480</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218342480</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218367339</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218367339</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
