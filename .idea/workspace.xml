@@ -73,22 +73,6 @@
       <option name="presentableId" value="Default" />
       <updated>1740156481794</updated>
     </task>
-    <task id="LOCAL-00001" summary="Creating a Python virtual environment">
-      <option name="closed" value="true" />
-      <created>1740157966057</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1740157966057</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Creating a Python virtual environment">
-      <option name="closed" value="true" />
-      <created>1740158214952</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1740158214952</updated>
-    </task>
     <task id="LOCAL-00003" summary="Creating a Python virtual environment">
       <option name="closed" value="true" />
       <created>1740158271252</created>
@@ -433,7 +417,55 @@
       <option name="project" value="LOCAL" />
       <updated>1740213522436</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740213842287</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1740213842287</updated>
+    </task>
+    <task id="LOCAL-00047" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740213866438</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1740213866438</updated>
+    </task>
+    <task id="LOCAL-00048" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740213918778</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1740213918778</updated>
+    </task>
+    <task id="LOCAL-00049" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740213955148</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1740213955148</updated>
+    </task>
+    <task id="LOCAL-00050" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740213986922</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1740213986925</updated>
+    </task>
+    <task id="LOCAL-00051" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740214014310</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1740214014310</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
