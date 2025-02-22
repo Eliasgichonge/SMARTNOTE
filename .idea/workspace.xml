@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Minimum working page">
-      <change beforePath="$PROJECT_DIR$/smartnotes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/smartnotes/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Minimum working page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +26,9 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -126,7 +126,71 @@
       <option name="project" value="LOCAL" />
       <updated>1740205131591</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1740205196199</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740205196199</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1740205220752</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740205220752</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1740205293937</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740205293937</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1740205314967</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740205314967</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1740205339346</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740205339346</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1740205381503</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740205381503</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1740205439412</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740205439412</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Minimum working page">
+      <option name="closed" value="true" />
+      <created>1740205490099</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740205490099</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
