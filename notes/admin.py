@@ -4,4 +4,4 @@ from . import models
 class NotesAdmin(admin.ModelAdmin):
       pass
 
-admin.site.register(models.Notes, NotesAdmin)
+admin.site.register(models.Note, NotesAdmin)
