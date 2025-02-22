@@ -78,30 +78,6 @@
       <option name="presentableId" value="Default" />
       <updated>1740156481794</updated>
     </task>
-    <task id="LOCAL-00053" summary="User authentication in 2 simple steps">
-      <option name="closed" value="true" />
-      <created>1740214257205</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1740214257205</updated>
-    </task>
-    <task id="LOCAL-00054" summary="User authentication in 2 simple steps">
-      <option name="closed" value="true" />
-      <created>1740214276893</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1740214276893</updated>
-    </task>
-    <task id="LOCAL-00055" summary="User authentication in 2 simple steps">
-      <option name="closed" value="true" />
-      <created>1740214331596</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1740214331596</updated>
-    </task>
     <task id="LOCAL-00056" summary="User authentication in 2 simple steps">
       <option name="closed" value="true" />
       <created>1740214467249</created>
@@ -470,7 +446,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740219557676</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740219746109</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1740219746109</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740219775072</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1740219775072</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740219799359</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1740219799359</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
