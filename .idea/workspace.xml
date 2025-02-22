@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Creating your first model">
-      <change beforePath="$PROJECT_DIR$/notes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/home/templates/home/welcome.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/home/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/notes/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/urls.py" root0="SKIP_INSPECTION" />
@@ -75,54 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740156481794</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1740205553329</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1740205553329</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1740205706587</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1740205706587</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1740205766037</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1740205766037</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1740205901539</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1740205901539</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Minimum working page">
-      <option name="closed" value="true" />
-      <created>1740207135003</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1740207135003</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Create first Django template">
-      <option name="closed" value="true" />
-      <created>1740207385358</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1740207385358</updated>
     </task>
     <task id="LOCAL-00023" summary="Create first Django template">
       <option name="closed" value="true" />
@@ -468,7 +421,55 @@
       <option name="project" value="LOCAL" />
       <updated>1740215035860</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Creating your first model">
+      <option name="closed" value="true" />
+      <created>1740215056188</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1740215056188</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Creating your first model">
+      <option name="closed" value="true" />
+      <created>1740215084968</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1740215084968</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Creating your first model">
+      <option name="closed" value="true" />
+      <created>1740215112436</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1740215112436</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Creating your first model">
+      <option name="closed" value="true" />
+      <created>1740215171360</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1740215171360</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Creating your first model">
+      <option name="closed" value="true" />
+      <created>1740215239735</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1740215239735</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Creating your first model">
+      <option name="closed" value="true" />
+      <created>1740215296935</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1740215296935</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
