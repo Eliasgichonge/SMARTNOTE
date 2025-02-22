@@ -75,14 +75,6 @@
       <option name="presentableId" value="Default" />
       <updated>1740156481794</updated>
     </task>
-    <task id="LOCAL-00030" summary="Django apps and the concept of modularization">
-      <option name="closed" value="true" />
-      <created>1740211241512</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1740211241512</updated>
-    </task>
     <task id="LOCAL-00031" summary="Django apps and the concept of modularization">
       <option name="closed" value="true" />
       <created>1740211277089</created>
@@ -467,7 +459,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740215736106</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Using admin for data creation and manipulation">
+      <option name="closed" value="true" />
+      <created>1740216281255</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1740216281255</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
