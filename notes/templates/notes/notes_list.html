@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Notes List</title>
 </head>
 <body>
     <h1>These are the notes:</h1>
     <ul>
         {% for note in notes %}
-             <li>{{note.title}}</li>
+             <li>{{ note.title }}</li>
+        {% empty %}
+             <li>No notes available.</li>
         {% endfor %}
     </ul>
 </body>
