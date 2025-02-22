@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Creating dynamic template">
-      <change beforePath="$PROJECT_DIR$/notes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Creating dynamic template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,22 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740156481794</updated>
-    </task>
-    <task id="LOCAL-00051" summary="User authentication in 2 simple steps">
-      <option name="closed" value="true" />
-      <created>1740214014310</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1740214014310</updated>
-    </task>
-    <task id="LOCAL-00052" summary="User authentication in 2 simple steps">
-      <option name="closed" value="true" />
-      <created>1740214104397</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1740214104397</updated>
     </task>
     <task id="LOCAL-00053" summary="User authentication in 2 simple steps">
       <option name="closed" value="true" />
@@ -472,7 +454,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740219217250</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740219387954</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1740219387954</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740219557676</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1740219557676</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
