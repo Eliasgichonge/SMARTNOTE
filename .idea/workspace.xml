@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/home/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/notes/templates/notes/notes_list.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/notes/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/smartnotes/settings.py" root0="SKIP_INSPECTION" />
@@ -76,38 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740156481794</updated>
-    </task>
-    <task id="LOCAL-00044" summary="User authentication in 2 simple steps">
-      <option name="closed" value="true" />
-      <created>1740213459818</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1740213459818</updated>
-    </task>
-    <task id="LOCAL-00045" summary="User authentication in 2 simple steps">
-      <option name="closed" value="true" />
-      <created>1740213522436</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1740213522436</updated>
-    </task>
-    <task id="LOCAL-00046" summary="User authentication in 2 simple steps">
-      <option name="closed" value="true" />
-      <created>1740213842287</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1740213842287</updated>
-    </task>
-    <task id="LOCAL-00047" summary="User authentication in 2 simple steps">
-      <option name="closed" value="true" />
-      <created>1740213866438</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1740213866438</updated>
     </task>
     <task id="LOCAL-00048" summary="User authentication in 2 simple steps">
       <option name="closed" value="true" />
@@ -469,7 +438,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740218367339</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218467684</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218467684</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218537735</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218537735</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218608337</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218608337</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Creating dynamic template">
+      <option name="closed" value="true" />
+      <created>1740218647790</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1740218647790</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
