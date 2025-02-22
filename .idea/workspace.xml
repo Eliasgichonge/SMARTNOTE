@@ -73,38 +73,6 @@
       <option name="presentableId" value="Default" />
       <updated>1740156481794</updated>
     </task>
-    <task id="LOCAL-00003" summary="Creating a Python virtual environment">
-      <option name="closed" value="true" />
-      <created>1740158271252</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1740158271252</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Installing Django with pip">
-      <option name="closed" value="true" />
-      <created>1740158455222</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1740158455222</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Installing Django with pip">
-      <option name="closed" value="true" />
-      <created>1740158939980</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1740158939980</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Creating a new project with Django">
-      <option name="closed" value="true" />
-      <created>1740159700834</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1740159700834</updated>
-    </task>
     <task id="LOCAL-00007" summary="Creating a new project with Django">
       <option name="closed" value="true" />
       <created>1740204980406</created>
@@ -465,7 +433,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740214014310</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740214104397</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1740214104397</updated>
+    </task>
+    <task id="LOCAL-00053" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740214257205</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1740214257205</updated>
+    </task>
+    <task id="LOCAL-00054" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740214276893</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1740214276893</updated>
+    </task>
+    <task id="LOCAL-00055" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740214331596</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1740214331596</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
