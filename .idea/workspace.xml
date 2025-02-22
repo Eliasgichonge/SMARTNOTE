@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="Creating users in Django" />
+    <list default="true" id="453f6296-d690-4e08-924e-8b9c96e64860" name="Changes" comment="User authentication in 2 simple steps" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -409,7 +409,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740213209387</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Creating admin Easily visualizing and creating data">
+      <option name="closed" value="true" />
+      <created>1740213372811</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1740213372811</updated>
+    </task>
+    <task id="LOCAL-00044" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740213459818</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1740213459818</updated>
+    </task>
+    <task id="LOCAL-00045" summary="User authentication in 2 simple steps">
+      <option name="closed" value="true" />
+      <created>1740213522436</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1740213522436</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -420,6 +444,8 @@
     <MESSAGE value="Create first Django template" />
     <MESSAGE value="Django apps and the concept of modularization" />
     <MESSAGE value="Creating users in Django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating users in Django" />
+    <MESSAGE value="Creating admin Easily visualizing and creating data" />
+    <MESSAGE value="User authentication in 2 simple steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="User authentication in 2 simple steps" />
   </component>
 </project>
