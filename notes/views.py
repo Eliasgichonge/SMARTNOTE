@@ -8,4 +8,5 @@ def list(request):
 
 
 def detail(request, pk):
+    note = Notes.object.get(pk=pk)
 
