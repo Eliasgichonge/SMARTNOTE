@@ -7,3 +7,6 @@ def home(request):
     return render(request, 'home/welcome.html', {'today': datetime.today()})
 
 
+def
+
+
