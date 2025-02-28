@@ -3,6 +3,6 @@ from  django.http import HttpResponse
 
 
 def home(request):
-    return render('Hello, world!')
+    return render(request, 'Hello, world!')
 
 
