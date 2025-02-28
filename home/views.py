@@ -12,6 +12,9 @@ class HomeView(TemplateView):
       extra_context = {'today': datetime.today()}
 
 
+class AuthorizedView(TemplateView):
+
+
 @login_required(login_url='/admin')
 def authorized(request):
     return render(request, 'home/authorized.html', {})
