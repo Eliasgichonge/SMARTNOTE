@@ -10,6 +10,9 @@ class NotesListView(ListView):
       template_name = "notes/notes_list.html"
 
 
+class NotesDetailView(DetailView):
+
+
 def detail(request, pk):
     try:
         note = Notes.objects.get(pk=pk)
