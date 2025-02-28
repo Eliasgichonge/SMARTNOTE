@@ -9,9 +9,10 @@ from django.views.generic import TemplateView
 
 class HomeView(TemplateView):
       template_name = 'home/welcome.html'
+      extra_context = {'today': datetime.today()}
 
 def home(request):
-    return render(request, 'home/welcome.html', {'today': datetime.today()})
+    return render(request, 'home/welcome.html', )
 
 
 @login_required(login_url='/admin')
