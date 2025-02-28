@@ -13,7 +13,7 @@ class HomeView(TemplateView):
 
 
 class AuthorizedView(TemplateView):
-
+      template_name = 'home/authorized.html'
 
 @login_required(login_url='/admin')
 def authorized(request):
