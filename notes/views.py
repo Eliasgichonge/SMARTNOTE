@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import Http404
 from .models import Notes
-from django.views.generic import ListView
+from django.views.generic import DetailView, ListView
 
 
 class NotesListView(ListView):
