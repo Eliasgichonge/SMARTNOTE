@@ -6,6 +6,7 @@ from django.views.generic import ListView
 
 class NotesListView(ListView):
       model = Notes
+      context_object_name = "notes"
 
 def list(request):
     all_notes = Notes.objects.all()
