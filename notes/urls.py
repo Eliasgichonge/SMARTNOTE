@@ -3,5 +3,5 @@ from . import views
 
 
 urlspatterns = [
-    path('notes', views.list)
+    path('notes', views.list),
 ]
