@@ -2,4 +2,6 @@ from django import forms
 from .models import Notes
 
 
-class
+class NotesForm(forms.ModelForm):
+      class Meta:
+            
