@@ -7,6 +7,7 @@ from django.views.generic import CreateView, DetailView, ListView
 class NotesCreateView(CreateView):
       model = Notes
       fields = ['title', 'text']
+      success_url = '/smart/notes'
 
 class NotesListView(ListView):
       model = Notes
