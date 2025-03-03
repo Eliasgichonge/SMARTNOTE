@@ -10,6 +10,7 @@ class NotesCreateView(CreateView):
       form_class = NotesForm
       success_url = '/smart/notes'
 
+
 class NotesListView(ListView):
       model = Notes
       context_object_name = "notes"
