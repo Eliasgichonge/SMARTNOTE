@@ -7,6 +7,9 @@ class NotesForm(forms.ModelForm):
       class Meta:
             model = Notes
             fields = ('title', 'text')
+            widgets = {
+
+            }
             labels = {
                 'text': 'Write your thoughts here'
             }
