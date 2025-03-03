@@ -7,7 +7,8 @@ from django.views.generic import CreateView, DetailView, ListView, UpdateView
 
 
 class NotesdeleteView(DeleteView):
-      
+      model = Notes
+
 
 
 class NotesUpdateView(UpdateView):
