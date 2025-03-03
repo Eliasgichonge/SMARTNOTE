@@ -5,6 +5,12 @@ from .forms import NotesForm
 from django.views.generic import CreateView, DetailView, ListView, UpdateView
 
 
+class NotesUpdateView(UpdateView):
+      model = Notes
+      form_class = NotesForm
+      success_url = '/smart/notes'
+
+
 class NotesCreateView(CreateView):
       model = Notes
       form_class = NotesForm
