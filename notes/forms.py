@@ -9,4 +9,5 @@ class NotesForm(forms.ModelForm):
 
 
       def clean_title(self):
+          title = self.cleaned_data['title']
 
