@@ -4,6 +4,10 @@ from .models import Notes
 from django.views.generic import CreateView, DetailView, ListView
 
 
+class NotesCreateView(CreateView):
+      model = Notes
+      fields = ['title', 'text']
+
 class NotesListView(ListView):
       model = Notes
       context_object_name = "notes"
