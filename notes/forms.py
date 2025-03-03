@@ -9,7 +9,7 @@ class NotesForm(forms.ModelForm):
             fields = ('title', 'text')
             widgets = {
                 'title': forms.TextInput(attrs={
-                    'class': 'form-control my-5'})
+                    'class': 'form-control my-5'}),
                 'text': forms.Textarea(attrs={
                     'classs': 'form-control mb-5'})
             }
