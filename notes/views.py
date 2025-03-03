@@ -6,7 +6,7 @@ from django.views.generic import DeleteView
 from django.views.generic import CreateView, DetailView, ListView, UpdateView
 
 
-class NotesdeleteView(DeleteView):
+class NotesDeleteView(DeleteView):
       model = Notes
       success_url = '/smart/notes'
 
