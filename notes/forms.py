@@ -1,4 +1,4 @@
-from django.core.exception import ValidationErr
+from django.core.exception import ValidationError
 from django import forms
 from .models import Notes
 
