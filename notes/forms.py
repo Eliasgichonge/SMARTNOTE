@@ -1,4 +1,4 @@
-from xml.dom import ValidationErr
+from xml.dom import ValidationError
 from django import forms
 from .models import Notes
 
