@@ -6,7 +6,7 @@
        {% for note in notes %}
        <div class="col">
            <div class="p-3 border">
-                <h3>{{note.title}}</h3>
+                <a href="{% url 'notes.detail' %}" <h3>{{note.title}}</h3>
                {{note.text|truncatechars:10}}
            </div>
        </div>
