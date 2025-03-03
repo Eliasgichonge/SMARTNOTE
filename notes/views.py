@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import Http404
 from .models import Notes
 from .forms import NotesForm
+from django.views.generic import DeleteView
 from django.views.generic import CreateView, DetailView, ListView, UpdateView
 
 
