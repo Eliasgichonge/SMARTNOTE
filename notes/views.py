@@ -3,6 +3,7 @@ from django.http import Http404
 from .models import Notes
 from .forms import NotesForm
 from django.views.generic import DeleteView
+from django.contrib.auth.mixins import LoginRequiredMixins
 from django.views.generic import CreateView, DetailView, ListView, UpdateView
 
 
