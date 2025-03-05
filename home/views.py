@@ -7,6 +7,7 @@ from django.contrib.auth.views import LoginView, LogoutView
 
 class SignupView(CreateView):
       form_class = UserCreationForm
+      template_name = 'home/register.html'
 
 
 
