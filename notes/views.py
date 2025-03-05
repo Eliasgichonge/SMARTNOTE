@@ -24,7 +24,7 @@ class NotesCreateView(CreateView):
       form_class = NotesForm
       success_url = '/smart/notes'
 
-      def form_valid(self):
+      def form_valid(self, form):
 
 
 class NotesListView(LoginRequiredMixin, ListView):
