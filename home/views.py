@@ -12,7 +12,7 @@ class SignupView(CreateView):
       template_name = 'home/register.html'
       success_url = '/smart'
 
-      def get(self):
+      def get(self, *args, **kwargs):
           return super()
 
 
