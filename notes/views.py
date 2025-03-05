@@ -24,7 +24,7 @@ class NotesUpdateView(UpdateView):
 class NotesCreateView(CreateView):
       model = Notes
       form_class = NotesForm
-      success_url = '/smart/notes'
+      success_url = '/smart'
 
       def form_valid(self, form):
           self.object = form.save(commit=False)
