@@ -8,6 +8,10 @@ from django.views.generic import TemplateView
 from django.contrib.auth.views import LoginView, LogoutView
 
 
+class LogoutInterfaceView(LogoutView):
+      te
+
+
 class LoginInterfaceView(LoginView):
       template_name = 'home/login.html'
 
