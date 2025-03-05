@@ -13,6 +13,8 @@ class SignupView(CreateView):
       success_url = '/smart'
 
       def get(self, *args, **kwargs):
+          if self.request.user.is_authenticated:
+             return redirect
           return super().get(request, *args, **kwargs)
 
 
