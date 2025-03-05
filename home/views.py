@@ -13,7 +13,7 @@ class SignupView(CreateView):
       success_url = '/smart'
 
       def get(self, *args, **kwargs):
-          return super()
+          return super().get(request, *args, **kwargs)
 
 
 class LogoutInterfaceView(LogoutView):
