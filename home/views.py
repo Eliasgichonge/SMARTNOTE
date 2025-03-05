@@ -12,7 +12,7 @@ class SignupView(CreateView):
       template_name = 'home/register.html'
       success_url = '/smart'
 
-      def get(self, *args, **kwargs):
+      def get(self, request, *args, **kwargs):
           if self.request.user.is_authenticated:
              return redirect('notes.list')
           return super().get(request, *args, **kwargs)
