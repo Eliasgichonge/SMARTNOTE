@@ -27,6 +27,7 @@ class NotesCreateView(CreateView):
       def form_valid(self, form):
           self.object = form.save(commit=False)
           self.object.user = self.request.user
+          self.object.save()
 
 
 class NotesListView(LoginRequiredMixin, ListView):
