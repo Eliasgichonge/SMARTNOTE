@@ -1,6 +1,5 @@
 from symtable import Class
 from django.shortcuts import render
-from  django.http impo
 from datetime import datetime
 from  django.contrib.auth.mixins import LoginRequiredMixin
 from django.views.generic import TemplateView
