@@ -12,6 +12,9 @@ class SignupView(CreateView):
       template_name = 'home/register.html'
       success_url = '/smart'
 
+      def get(self):
+          return super()
+
 
 class LogoutInterfaceView(LogoutView):
       template_name = 'home/logout.html'
