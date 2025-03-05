@@ -31,6 +31,8 @@ class NotesListView(LoginRequiredMixin, ListView):
       template_name = "notes/notes_list.html"
       login_url = "/admin"
 
+      def
+
 
 class NotesDetailView(DetailView):
       model = Notes
