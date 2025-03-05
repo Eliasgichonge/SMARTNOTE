@@ -25,7 +25,7 @@ class NotesCreateView(CreateView):
       success_url = '/smart/notes'
 
 
-class NotesListView(ListView):
+class NotesListView(LoginRequiredMixin, ListView):
       model = Notes
       context_object_name = "notes"
       template_name = "notes/notes_list.html"
