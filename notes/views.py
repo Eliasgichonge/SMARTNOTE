@@ -1,5 +1,5 @@
 from typing import List
-from django.http.response import HttpResponse
+from django.http.response import HttpResponseRedirect
 from django.shortcuts import render
 from django.http import Http404
 from .models import Notes
