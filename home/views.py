@@ -14,7 +14,7 @@ class SignupView(CreateView):
 
       def get(self, *args, **kwargs):
           if self.request.user.is_authenticated:
-             return redirect
+             return redirect('notes.list')
           return super().get(request, *args, **kwargs)
 
 
