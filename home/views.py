@@ -9,7 +9,7 @@ from django.contrib.auth.views import LoginView, LogoutView
 
 
 class LogoutInterfaceView(LogoutView):
-      te
+      template_name = 'home/logout.html'
 
 
 class LoginInterfaceView(LoginView):
