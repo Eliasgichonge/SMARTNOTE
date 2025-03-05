@@ -8,7 +8,7 @@ from django.contrib.auth.views import LoginView, LogoutView
 class SignupView(CreateView):
       form_class = UserCreationForm
       template_name = 'home/register.html'
-      success_url = '/smart/notes'
+      success_url = '/smart'
 
 
 class LogoutInterfaceView(LogoutView):
