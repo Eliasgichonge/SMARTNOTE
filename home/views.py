@@ -5,6 +5,11 @@ from django.views.generic.edit import CreateView
 from django.contrib.auth.views import LoginView, LogoutView
 
 
+class SignupView(CreateView):
+      form_class = UserCreationForm
+
+
+
 class LogoutInterfaceView(LogoutView):
       template_name = 'home/logout.html'
 
