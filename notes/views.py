@@ -30,7 +30,7 @@ class NotesCreateView(CreateView):
           self.object = form.save(commit=False)
           self.object.user = self.request.user
           self.object.save()
-          return HTTPResponseRedirect(self.get_success_url)
+          return HttpResponseRedirect(self.get_success_url)
 
 
 class NotesListView(LoginRequiredMixin, ListView):
